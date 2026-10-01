@@ -1,0 +1,11 @@
+# Your real settings (contain the iLO password!)
+ilo_fan_config.json
+
+# Python / build output
+__pycache__/
+*.pyc
+build/
+dist/
+output/
+*.spec
+.venv/

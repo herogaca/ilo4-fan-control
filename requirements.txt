@@ -1,0 +1,2 @@
+# iLO4 only speaks old SSH algorithms that paramiko 4.x/5.x removed - keep this pinned.
+paramiko==3.5.1
