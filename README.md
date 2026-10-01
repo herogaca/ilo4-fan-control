@@ -2,6 +2,9 @@
 
 A standalone Windows desktop app for managing fan profiles on HPE ProLiant servers (Gen8/Gen9) with **patched iLO 4 firmware**. Pick a profile with a rotary-style dial, watch live fan speeds, and restart iLO with one click.
 
+Original post on how to mod ilo4 firmware can be found on this reddit post:
+https://www.reddit.com/r/homelab/comments/sx3ldo/hp_ilo4_v277_unlocked_access_to_fan_controls/
+
 <!-- Add a screenshot: put it in the repo as screenshot.png and uncomment -->
 <!-- ![Screenshot](screenshot.png) -->
 
